@@ -1,0 +1,58 @@
+/**
+* Gravitation Team 1.1
+*/
+
+.item-team {
+    border: 1px solid #eee;
+    min-height: 372px;
+}
+.social-nav {
+    margin: 0px !important;
+
+}
+.social-nav li {
+    display: inline-block;
+    padding-right: 5px;
+}
+.team-title {
+	margin-top: 10px !important;
+    margin-bottom: 0px !important;
+    text-align: center;
+    text-transform: uppercase;
+}
+.team-description {
+    text-align: center;
+    color: #686868;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.social-nav.list-inline.list-unstyled {
+    text-align: center;
+}
+.twitter-btn {
+	display: inline-block;
+	width:  32px;
+	height: 32px;
+	background:transparent url('../images/twitter-32-gray.png') center top no-repeat;
+}
+.twitter-btn:hover {
+   background-image: url('../images/twitter-32-color.png');
+}
+.facebook-btn {
+	display: inline-block;
+	width:  32px;
+	height: 32px;
+	background:transparent url('../images/facebook-32-gray.png') center top no-repeat;
+}
+.facebook-btn:hover {
+   background-image: url('../images/facebook-32-color.png');
+}
+.g-plus-btn {
+	display: inline-block;
+	width:  32px;
+	height: 32px;
+	background:transparent url('../images/g-plus-32-gray.png') center top no-repeat;
+}
+.g-plus-btn:hover {
+   background-image: url('../images/g-plus-32-color.png');
+}

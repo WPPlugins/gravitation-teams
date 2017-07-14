@@ -1,0 +1,182 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gravitation Teams\n"
+"POT-Creation-Date: 2015-12-21 13:29+0100\n"
+"PO-Revision-Date: 2015-12-22 03:21+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: gravitation-teams.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: gravitation-teams.php:146
+msgid "Image"
+msgstr "Imagen"
+
+#: gravitation-teams.php:147 gravitation-teams.php:428
+msgid "Twitter"
+msgstr "Twitter"
+
+#: gravitation-teams.php:148 gravitation-teams.php:438
+msgid "Facebook"
+msgstr "Facebook"
+
+#: gravitation-teams.php:149
+msgid "Goole Plus"
+msgstr "Goole Plus"
+
+#: gravitation-teams.php:151
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: gravitation-teams.php:274
+msgid "Help"
+msgstr "Ayuda"
+
+#: gravitation-teams.php:282
+msgid "Sorry, your nonce did not verify."
+msgstr "Lo sentimos, tu post  no ha sido verificado."
+
+#: gravitation-teams.php:297
+msgid "Help GV. teams"
+msgstr "Ayuda GV. equipos"
+
+#: gravitation-teams.php:308
+msgid "Include Bootstrap?"
+msgstr "¿Incluye Bootstrap?"
+
+#: gravitation-teams.php:310
+msgid "If your theme already includes bootstrap set this option to NO."
+msgstr "Si tu tema ya incluye bootstrap marque esta opción NO."
+
+#: gravitation-teams.php:319
+msgid "No"
+msgstr "No"
+
+#: gravitation-teams.php:321
+msgid "Yes"
+msgstr "Si"
+
+#: gravitation-teams.php:334
+msgid "Save Settings"
+msgstr "Guardar ajustes"
+
+#: gravitation-teams.php:340
+msgid "Type of shortcodes:"
+msgstr "Tipos de Shortcodes:"
+
+#: gravitation-teams.php:341
+msgid "Pages, Posts and Widgets"
+msgstr "Páginas, entradas y widgets"
+
+#: gravitation-teams.php:343
+msgid "Show all teams: <strong>[gravitation_teams]</strong>"
+msgstr "Mostrar todos los equipos: <strong>[gravitation_teams]</strong>"
+
+#: gravitation-teams.php:362
+msgctxt "Post Type General Name"
+msgid "GV. teams"
+msgstr "GV. equipos"
+
+#: gravitation-teams.php:363
+msgctxt "Post Type Singular Name"
+msgid "teams"
+msgstr "equipos"
+
+#: gravitation-teams.php:364 gravitation-teams.php:365
+msgid "GV. teams"
+msgstr "GV. equipos"
+
+#: gravitation-teams.php:366
+msgid "Parent team:"
+msgstr "Equipo Padre"
+
+#: gravitation-teams.php:367
+msgid "All teams"
+msgstr "Todos los equipos"
+
+#: gravitation-teams.php:368
+msgid "Add team"
+msgstr "Agregar equipo"
+
+#: gravitation-teams.php:369
+msgid "Add New"
+msgstr "Añadir Nuevo"
+
+#: gravitation-teams.php:370
+msgid "New team"
+msgstr "Nuevo Equipo"
+
+#: gravitation-teams.php:371
+msgid "Edit team"
+msgstr "Editar Equipo"
+
+#: gravitation-teams.php:372
+msgid "Update team"
+msgstr "Actualizar equipo"
+
+#: gravitation-teams.php:373
+msgid "View team"
+msgstr "Ver Equipo"
+
+#: gravitation-teams.php:374
+msgid "Search team"
+msgstr "Buscar Equipo"
+
+#: gravitation-teams.php:375
+msgid "teams Not found"
+msgstr "Los equipos no encontraron"
+
+#: gravitation-teams.php:376
+msgid "teams Not found in Trash"
+msgstr "No se ha encontrado Equipos en la papelera"
+
+#: gravitation-teams.php:380
+msgid "Gv. teams"
+msgstr "Gv. equipos"
+
+#: gravitation-teams.php:381
+msgid "Gv. teams Creator simple responsive teams items"
+msgstr "Gv. equipos Creador de equipos simples responsivo"
+
+#: gravitation-teams.php:448
+msgid "Google plus"
+msgstr "Google plus"
+
+#. Plugin Name of the plugin/theme
+msgid "Gravitation Teams"
+msgstr "Gravitación Equipos"
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/UlisesFreitas/gravitation-teams"
+msgstr "https://github.com/UlisesFreitas/gravitation-teams"
+
+#. Description of the plugin/theme
+msgid ""
+"Gravitation teams, is a plugin to display teams on your site, with shortcodes"
+msgstr ""
+"Gravitación Equipos , es un plugin para mostrar los equipos en su sitio, con "
+"shortcodes"
+
+#. Author of the plugin/theme
+msgid "Ulises Freitas"
+msgstr "Ulises Freitas"
+
+#. Author URI of the plugin/theme
+msgid "https://disenialia.com/"
+msgstr "https://disenialia.com/"
+
+#. gravitation-teams.php:141
+msgid "Settings"
+msgstr "Configuración"
